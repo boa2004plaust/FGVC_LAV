@@ -5,7 +5,7 @@ This repository is to download the FGVC_LAV dataset
 
 Author: Jiabao Wang, Yang Li, Xun Zhao, Zhuang Miao.
 
-Last Update: 01/03/2022
+Last Update: 02/03/2022
 
 ## Dataset Acquisition
 
